@@ -38,7 +38,7 @@ We do not have an official message board at this time, however, we plan to have 
 
 We intend our project to be a Discord Bot. More information will be made available following subsequent team-decisions!
 
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
 ## Our Pledge
 
