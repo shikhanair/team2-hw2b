@@ -8,7 +8,7 @@ The following is a set of guidelines for contributing to our project hosted on G
 
 [Code of Conduct](#code-of-conduct)
 
-[I don't want to read this whole thing, I just have a question!!!](#quick-question?)
+[I don't want to read this whole thing, I just have a question!!!](#quick-question)
 
 [What should I know before I get started?](#what-should-i-know-before-i-get-started)
   * Our Project - Discort Bot
