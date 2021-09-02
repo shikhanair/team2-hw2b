@@ -1,8 +1,10 @@
-# Contributing to Our Project
+# Contributing
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
 The following is a set of guidelines for contributing to our project hosted on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+
+*This document is adapted from the [Atom Code of Conduct](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#code-of-conduct)
 
 #### Table Of Contents
 
@@ -46,6 +48,6 @@ We do not have an official message board at this time, however, we plan to have 
 
 ## What should I know before I get started?
 
-### Our Projecvt
+### Our Project
 
 We intend our project to be a Discord Bot. More information will be made available following subsequent team-decisions!
