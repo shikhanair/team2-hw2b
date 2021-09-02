@@ -3,6 +3,7 @@
 
 # Write a "good" Github Repo
 Welcome! This is an example repository for Homework 2b. We hope we did a good job!
+
 CSC510 Software Engineering, Fall 2021, NC State University
 ## Team 2 Members 
 Tanya Chu  
