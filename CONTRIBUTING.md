@@ -17,7 +17,7 @@ The following is a set of guidelines for contributing to our project hosted on G
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to the repository owner.
+This project and everyone participating in it is governed by our [Code of Conduct](https://github.com/shikhanair/team2-hw2b/blob/main/CONTRIBUTING.md#code-of-conduct-1). By participating, you are expected to uphold this code. Please report unacceptable behavior to the repository owner.
 
 ## Quick Question?
 
